@@ -1,0 +1,5 @@
+D:\MyStudy\MyPortfolio\Common\bin\Debug\Common.dll
+D:\MyStudy\MyPortfolio\Common\bin\Debug\Common.pdb
+D:\MyStudy\MyPortfolio\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\MyStudy\MyPortfolio\Common\obj\Debug\Common.dll
+D:\MyStudy\MyPortfolio\Common\obj\Debug\Common.pdb
